@@ -774,7 +774,8 @@
       "dist/nodes/Zulip/Zulip.node.js",
       "dist/nodes/ImageGen/ImageGen.node.js",
       "dist/nodes/RemoveBg/RemoveBg.node.js",
-      "dist/nodes/Interview/InterviewQuestionGen.node.js"
+      "dist/nodes/Interview/InterviewQuestionGen.node.js",
+      "dist/nodes/Interview/InterviewGetFile.node.js"
     ]
   },
   "devDependencies": {
